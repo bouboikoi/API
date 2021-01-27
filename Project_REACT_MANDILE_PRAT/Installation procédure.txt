@@ -1,0 +1,8 @@
+- Créer un dossier "PROJECT_REACT_MANDILE_PRRAT" dans le dossier www de Wamp.
+- A l'intérieur de ce dossier, copier les deux dossiers API + SITE.
+- Lancer le script SQL pour créer la BDD. (attention, le script ne supprime pas la BDD blog si elle existe, libérer le nom blog si jamais il est utilisé)
+- La documentation est dans le site pour l'API.
+
+
+Le token pour l'utilisateur admin : @dm1nt0k3n
+
